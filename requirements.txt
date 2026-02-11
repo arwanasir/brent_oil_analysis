@@ -1,7 +1,7 @@
 numpy
 pandas 
 matplotlib
-statsmodel
+statsmodels
 arviz
 pymc
 flask
