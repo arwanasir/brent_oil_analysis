@@ -1,6 +1,11 @@
 numpy
 pandas 
 matplotlib
-statsmodel
+statsmodels
 arviz
 pymc
+flask
+flask-cors
+scipy
+pytensor
+seaborn
