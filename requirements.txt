@@ -4,3 +4,8 @@ matplotlib
 statsmodel
 arviz
 pymc
+flask
+flask-cors
+scipy
+pytensor
+seaborn
